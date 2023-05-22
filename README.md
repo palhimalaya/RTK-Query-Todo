@@ -1,5 +1,7 @@
 # Full Stack Todo App using RTK Query
 
+[https://rtk-query-todo.onrender.com/](Live Preview)
+
 This is a full-stack todo application built with React and RTK Query, providing seamless state management and real-time synchronization between the client and server.
 
 ## Features
