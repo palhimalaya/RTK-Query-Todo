@@ -25,10 +25,10 @@ This is a full-stack todo application built with React and RTK Query, providing 
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository or fork it:
 
    ```shell
-   git clone [https://github.com/your-username/rtk-query-todo-app.git](https://github.com/palhimalaya/RTK-Query-Todo.git)
+   git clone https://github.com/palhimalaya/RTK-Query-Todo.git
    ```
 
 2. Navigate to the project directory:
